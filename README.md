@@ -55,6 +55,7 @@ O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incr�
   ![mobile_6](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/3e21a979-27db-45da-ba4d-142523c14aee)
 
 - **Tela sobre nós**
+  
   ![mobile_7](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/2230533f-5138-4562-91c0-f1100012497f)
 
 - **Tela sobre nós**
