@@ -16,7 +16,6 @@ O projeto Pamonha da Iris √© um site dedicado a compartilhar e promover as incr√
 ## Capturas de tela
 - Layout Desktop
   ![imageDesktop_01](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/498dda82-8f78-4120-8d2f-38de38331551)
-
   ![imageDesktop_03](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/b8bbc86e-69d9-44db-8ac5-a98caa15f221)
   ![imageDesktop_04](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/72b169c6-4bf4-4aad-90cc-f49e0521de46)
   ![imageDesktop_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/b69af934-f432-4983-9839-5f03777389f6)
