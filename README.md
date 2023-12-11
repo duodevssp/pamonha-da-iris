@@ -29,11 +29,11 @@ O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incr�
 ![image_08](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c4878170-0549-4a4d-91cc-78bed9894db1)
 
 - Layout Mobile
-  
-![image_07](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/e540e7c6-1ec2-4bde-8af4-85e9111b702c)
-![image_06](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/84faeb3e-af19-402c-9d97-24248873072a)
-![image_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c203b231-475b-4e98-8c72-3d18b0d4b5ff)
-![image_04](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/9ff9e81d-96fa-47b6-941b-785d7d5c5cf0)
+![image_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/1cb7845c-c848-45bb-9b44-084e4b6ac0bf)
+![image_02](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/98d9b433-ddf4-4a78-93c2-5a9f423e52fc)
+![image_07](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/8800c549-70b0-465c-8e72-e47418c6c3c6)
+
+
 
 ## Licença
 
