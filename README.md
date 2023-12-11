@@ -24,8 +24,6 @@ O projeto Pamonha da Iris √© um site dedicado a compartilhar e promover as incr√
   ![imageDesktop_07](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/87910cbd-55d9-4ab1-9623-3e6507426d4b)
   ![imageDesktop_08](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c4ba7091-b23f-4687-a90c-0b6e6176d8d7)
 
-  ![imageDesktop_02](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/750cd4db-18f3-4afe-a759-93c447ccaaa5)
-
 
 
 
