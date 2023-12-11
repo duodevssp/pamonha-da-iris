@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do projeto Pamonha da Iris! Neste site incrível você irá encontrar uma variedade de sabores das nossas deliciosas pamonhas disponíveis.
 
+Acesse o link do GitHub pages: https://duodevssp.github.io/pamonha-da-iris/
+
 ## Tabela de Conteúdos
 
 - [Visão Geral](#visão-geral)
