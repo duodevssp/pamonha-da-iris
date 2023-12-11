@@ -1,6 +1,6 @@
 # Pamonha da Iris
 
-Bem-vindo ao repositório do projeto Pamonha da Iris! Este é um site incrível com uma variedade de deliciosas pamonhas.
+Bem-vindo ao repositório do projeto Pamonha da Iris! Neste site incrível você irá encontrar uma variedade de sabores das nossas deliciosas pamonhas disponíveis.
 
 ## Tabela de Conteúdos
 
@@ -11,7 +11,8 @@ Bem-vindo ao repositório do projeto Pamonha da Iris! Este é um site incrível 
 
 ## Visão Geral
 
-O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incríveis pamonhas feitas pela Iris. Explore as diferentes variedades e sabores disponíveis.
+O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incríveis pamonhas feitas pela Iris. 
+O website foi aprimorado com recursos atrativos, apresentando um carrossel interativo na página inicial que permite aos usuários navegar manualmente pelos destaques ou desfrutar de uma transição automática entre os slides. Links de acesso rápido foram incorporados para facilitar a navegação até páginas-chave. O design responsivo assegura uma experiência consistente em vários dispositivos, enquanto cada slide do carrossel oferece conteúdo dinâmico e visualmente envolvente. A paleta de cores e os elementos estilizados visam proporcionar uma experiência visual agradável, adaptável às necessidades específicas do projeto. Adicionalmente, o site inclui integração com o WhatsApp para facilitar pedidos, e informações detalhadas sobre o cardápio estão disponíveis para os usuários explorarem.
 
 ## Layout Desktop
 
