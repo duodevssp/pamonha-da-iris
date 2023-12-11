@@ -32,10 +32,13 @@ O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incr�
 
 ## Layout mobile
 - **Tela Inicial do Carrossel de Slides**
+  
   ![Carrossel](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/1cb7845c-c848-45bb-9b44-084e4b6ac0bf)
 - **Pamonha 2 (Mobile)**
+  
   ![Pamonha 2 (Mobile)](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/98d9b433-ddf4-4a78-93c2-5a9f423e52fc)
 - **Pamonha 7 (Mobile)**
+  
   ![Pamonha 7 (Mobile)](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/8800c549-70b0-465c-8e72-e47418c6c3c6)
 
 ## Licença
