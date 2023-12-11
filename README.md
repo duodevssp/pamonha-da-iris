@@ -34,13 +34,33 @@ O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incr�
 - **Tela Inicial do Carrossel de Slides**
   
   ![Carrossel](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/1cb7845c-c848-45bb-9b44-084e4b6ac0bf)
-- **Pamonha 2 (Mobile)**
+- **Rodapé**
   
-  ![Pamonha 2 (Mobile)](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/98d9b433-ddf4-4a78-93c2-5a9f423e52fc)
-- **Pamonha 7 (Mobile)**
-  
-  ![Pamonha 7 (Mobile)](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/8800c549-70b0-465c-8e72-e47418c6c3c6)
+  ![mobile_2](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/2362cc4b-60d7-4061-9169-062b8a8084c5)
 
+- **Tela cardapio**
+  
+  ![mobile_3](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/2087ca30-afae-4bc9-bf24-bc56c839c057)
+
+- **Tela pedidos**
+
+  ![mobile_4](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c824cc4d-00f5-43a8-80e1-0376e93b7274)
+
+- **Tela pedidos**
+  
+  ![mobile_5](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/cacab942-b83a-4645-8360-b5672fe6b737)
+
+- **Tela sobre nós**
+  
+  ![mobile_6](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/3e21a979-27db-45da-ba4d-142523c14aee)
+
+- **Tela sobre nós**
+  ![mobile_7](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/2230533f-5138-4562-91c0-f1100012497f)
+
+- **Tela sobre nós**
+
+  ![mobile_8](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/f14f38e1-6382-49fe-a666-b87f70baa426)
+  
 ## Licença
 
 Este projeto está no domínio público - sinta-se à vontade para usá-lo, modificá-lo e distribuí-lo como preferir.
