@@ -13,7 +13,7 @@ Bem-vindo ao repositório do projeto Pamonha da Iris! Este é um site incrível 
 
 O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incríveis pamonhas feitas pela Iris. Explore as diferentes variedades e sabores disponíveis.
 
-### Layout Desktop
+## Layout Desktop
 
 - **Pamonha 1**
   ![Pamonha 1](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/498dda82-8f78-4120-8d2f-38de38331551)
@@ -30,7 +30,7 @@ O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incr�
 - **Pamonha 7**
   ![Pamonha 7](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c4ba7091-b23f-4687-a90c-0b6e6176d8d7)
 
-## Capturas de tela
+## Layout mobile
 - **Tela Inicial do Carrossel de Slides**
   ![Carrossel](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/1cb7845c-c848-45bb-9b44-084e4b6ac0bf)
 - **Pamonha 2 (Mobile)**
