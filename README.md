@@ -15,20 +15,38 @@ O projeto Pamonha da Iris é um site dedicado a compartilhar e promover as incr�
 
 ## Layout Desktop
 
-- **Pamonha 1**
-  ![Pamonha 1](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/498dda82-8f78-4120-8d2f-38de38331551)
-- **Pamonha 2**
-  ![Pamonha 2](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/b8bbc86e-69d9-44db-8ac5-a98caa15f221)
-- **Pamonha 3**
-  ![Pamonha 3](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/72b169c6-4bf4-4aad-90cc-f49e0521de46)
-- **Pamonha 4**
-  ![Pamonha 4](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/b69af934-f432-4983-9839-5f03777389f6)
-- **Pamonha 5**
-  ![Pamonha 5](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/7b1ecdb4-f122-4dd4-9dfd-5cae6d00c5e1)
-- **Pamonha 6**
-  ![Pamonha 6](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/87910cbd-55d9-4ab1-9623-3e6507426d4b)
-- **Pamonha 7**
-  ![Pamonha 7](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c4ba7091-b23f-4687-a90c-0b6e6176d8d7)
+- **Tela inicial carrossel de slides**
+
+  ![imageDesktop_01](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/0ac75dfa-47ee-4fa4-a59a-83854d26e4b6)
+
+  
+- **Rodapé**
+
+  ![imageDesktop_02](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/29f2f0fb-5d0d-460b-bd8d-71535f8512e2)
+  
+- **Tela Cardapio**
+
+  ![imageDesktop_03](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c266be0a-b046-4f7d-b938-1b050fc37c08)
+  
+- **Tela Pedidos**
+
+  ![imageDesktop_04](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/74173aeb-453e-4890-b563-747ecc040255)
+
+- **Tela Cardapio**
+
+  ![imageDesktop_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/09e2c11a-72e6-4d28-9892-d1bd2ac1e249)
+  
+- **Tela Sobre nós**
+
+  ![imageDesktop_06](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/ee5551ec-6f71-4723-b7d4-92945d70a807)
+  
+- **Tela Sobre nós**
+
+  ![imageDesktop_07](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/e56f8421-3157-4326-8ea8-43a58bd02bbb)
+  
+- **Tela Sobre nós**
+
+  ![imageDesktop_08](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/ad0f8eb1-8d48-40a5-9451-6e5c1741ad86)
 
 ## Layout mobile
 - **Tela Inicial do Carrossel de Slides**
