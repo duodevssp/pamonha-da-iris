@@ -15,13 +15,14 @@ O projeto Pamonha da Iris √© um site dedicado a compartilhar e promover as incr√
 
 ## Capturas de tela
 - Layout Desktop
-  ![imageDesktop_08](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/6436b64a-eb99-4b73-afe8-b5699c3e0842)
-  ![imageDesktop_07](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/4f103938-ed6f-4904-b282-ba8c9896a755)
-  ![imageDesktop_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/03783018-f07c-440a-a6bd-a048ef9ff5f4)
-  ![imageDesktop_04](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/a93f8384-24a9-4aee-80e3-be06c6a2082a)
-  ![imageDesktop_03](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/496daac6-2dfa-48e7-98a6-8f9b5c809a2c)
-  ![imageDesktop_02](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/6ccc5382-1687-4ba5-abb3-cca03746d245)
   ![imageDesktop_01](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/498dda82-8f78-4120-8d2f-38de38331551)
+  ![imageDesktop_02](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/750cd4db-18f3-4afe-a759-93c447ccaaa5)
+  ![imageDesktop_03](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/b8bbc86e-69d9-44db-8ac5-a98caa15f221)
+  ![imageDesktop_04](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/72b169c6-4bf4-4aad-90cc-f49e0521de46)
+  ![imageDesktop_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/b69af934-f432-4983-9839-5f03777389f6)
+  ![imageDesktop_07](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/13af0649-2e1e-4f78-ba1a-759d063a19b0)
+  ![imageDesktop_08](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/aba38c6e-c99e-487e-96c9-322bbfc2cd00)
+
 
 
 
