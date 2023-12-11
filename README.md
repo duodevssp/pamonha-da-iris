@@ -35,10 +35,10 @@ O website foi aprimorado com recursos atrativos, apresentando um carrossel inter
 
   ![imageDesktop_04](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/74173aeb-453e-4890-b563-747ecc040255)
 
-- **Tela Cardapio**
+- **Tela Pedidos**
 
   ![imageDesktop_05](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/09e2c11a-72e6-4d28-9892-d1bd2ac1e249)
-  
+  - Telefone deve ser alterado no script.js
 - **Tela Sobre nós**
 
   ![imageDesktop_06](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/ee5551ec-6f71-4723-b7d4-92945d70a807)
