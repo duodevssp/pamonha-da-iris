@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;  
+}
+
+/* CARROSSEL DE SLIDES */
+.carrossel-container {
+    overflow: hidden;
+    width: 100vw;
+    position: relative;
+    height: 70vh;
+}
+
+.carrossel-wrapper {
+    display: flex;
+    transition: transform 0.5s;
+    width: 100%; /* Ajuste o valor conforme necessário, dependendo do número de slides */
+    margin-right: 0;
+}
+
+.carrossel-slide {
+    flex: 0 0 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 81vh;
+    border: 5px solid var(--verde-escuro);
+    border-radius: 30px;
+    background-color: var(--bege-fundo);
+    gap: 5px;
+
+}
+
+.bannertexto {
+    width: 50%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:50px;
+}
+
+.bannertexto h1 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 40px;
+    word-spacing: -10px;
+    text-transform: capitalize;
+    text-align:left;
+    line-height: 42px;
+    word-spacing: -1px;
+    color: var(--marrom);
+    margin-bottom: 12px;
+}
+
+.bannertexto span{
+    color: var(--amarelo-escuro);
+    font-weight: 300;
+    text-transform: lowercase;
+    font-family: 'Sulphur Point', sans-serif;
+    word-spacing: -10px;
+}
+
+
+.bannertexto p {
+    font-size: 19px;
+    word-spacing: -5px;
+    text-transform:none;
+    text-align:left;
+    margin-top: 5px;
+    color: var(--verde-medio);
+    font-weight: 400;
+}
+
+.bannerimagem {
+    width: 55%;
+    display: flex;
+    justify-content: center;
+    margin: 25px 25px 25px 0;
+}
+
+.bannerimagem img {
+    width: 75%;
+    height: 85%;
+    object-fit: contain;
+    border: 8px solid rgba(133, 39, 3, 0.8);
+    border-radius: 50%;
+}
+
+.carrosel-bullets {
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+    margin-bottom: 10px;
+    overflow: hidden;
+
+}
+
+.bullet {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: var(--bege-fundo);
+    margin: 0 5px;
+    cursor: pointer;
+    z-index: 3;
+    border: 1px solid var(--marrom);
+}
+
+.bullet.active {
+    background-color: var(--marrom);
+}
+
+.links {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
+}
+
+.links__acesso {
+    background-color: var(--bege-fundo); 
+    display: inline-block;
+    padding: 8px 12px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 18px;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.links a {
+    color: var(--verde-escuro);
+    text-decoration: none;
+    border: 2px solid var(--verde-escuro);
+    word-spacing: 0;
+    text-transform: none;
+
+}
+
+.links a:hover {
+    background-color: var(--verde-medio);
+    color: var(--bege-fundo);
+    border-radius: 18px;
+}
+
+@media screen and (max-width: 768px) {
+    /* BUG TAMANHO TELA */
+    html {
+        max-height: 1200px;
+        height: 100%;
+        overflow-y: scroll;
+    }
+
+    /* CARROSSEL DE SLIDES */
+    .carrossel-wrapper {
+        height: auto;
+        width: 100%; /* Certifica-se de que apenas um slide seja visível no modo móvel */
+        margin-right: 0;
+    }
+
+    .carrossel-slide {
+        flex-direction: column-reverse;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 1%;
+    }
+
+    .bannertexto {
+        width: 90%;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 2%;
+    }
+
+    .bannertexto h1 {
+        text-align: left;
+        font-size: 30px;
+    }
+
+    .bannertexto span {
+        font-size: 37px;
+        word-spacing: -5px;
+    }
+
+    .bannerimagem {
+        width: 60%;
+        margin: 25px 0 0 0; /* Ajuste de margem*/
+    }
+
+    .bannerimagem img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    /* ESPAÇAMENTO ESPECifÍCO */
+    #slidemenor1 img {
+        margin-top: 1%;
+    }
+    
+    #slidemenor1 .bannertexto {
+        margin-top: 10%;
+    }
+
+    #slidemenor2 .bannertexto {
+        margin-top: 5%;
+    }
+
+    .links {
+        justify-content: center;
+        margin: 0;
+    }
+}

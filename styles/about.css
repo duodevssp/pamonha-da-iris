@@ -1,0 +1,323 @@
+.principal {
+    background-color: var(--bege-fundo);
+    border: 5px solid var(--bege-fundo);
+    border-radius: 30px;
+}
+
+.about-us {
+    margin-top: 2%;
+    margin-bottom: 3%;
+    word-spacing: -2px;
+}
+
+.about-us h1 {
+    font-size: 42px;
+    font-family: 'Kalam', cursive;
+    font-weight: 400;
+    word-spacing: -10px;
+    color: var(--amarelo-escuro);
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.about-us p {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--marrom);
+    font-family: 'Comic Neue', cursive;
+}
+
+.historia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    margin-left: 30%;
+    max-width: 1200px !important;
+}
+
+.historia__texto {
+    background-color: var(--marrom);
+    width: 50%;
+    padding: 5%;
+    margin-right: 85%;
+    position: absolute;
+    z-index: 2;
+    text-align: left;
+}
+
+.historia__texto h2 {
+    color: var(--amarelo-escuro);
+    font-weight: 300;
+    text-transform: lowercase;
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 32px;
+}
+
+.historia__texto p {
+    color: var(--bege-fundo);
+    font-size: 18px;
+    font-family: 'Comic Neue', cursive;
+    word-spacing: 1px;
+}
+
+.historia__img {
+    z-index: 1;
+    width: 40%;
+}
+
+.historia__img img {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--marrom);
+    border-radius: 10px;
+
+}
+
+/* MAIS SOBRE */
+.mais__sobre {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+    max-width: 1600px !important;
+    margin: 0;
+    width: 100%;
+    height: 950px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-image: linear-gradient(to left top, #fcb60d, #fdb523, #feb531, #ffb43d, #ffb447, #ffb447, #ffb447, #ffb447, #ffb43d, #feb531, #fdb523, #fcb60d);
+}
+
+.mais__sobre__img {
+    width: 25%;
+    height: 30%;
+    margin: 0;
+}
+
+.mais__sobre__img img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border-radius: 10px;
+    box-shadow: 12px 5px 5px var(--marrom);
+}
+
+.mais__sobre__img img:hover {
+    -webkit-transform: scale(1.07);
+    -ms-transform: scale(1.07);
+    transform: scale(1.07);
+    transition: 1s ease;
+}
+
+#img_1 {
+    align-self: flex-start;
+    margin-left: 3%;
+    position: absolute;
+    z-index: 1;
+    margin-top: 3%;
+}
+
+#img_2 {
+    margin: 0;
+    align-self: flex-end;
+    left: 70%;
+    position: absolute;
+    z-index: 1;
+    margin-bottom: 2%;
+}
+
+.mais__sobre__texto {
+    text-align: left;
+    width: 50%;
+    background-color: var(--verde-medio);
+    padding: 5% 2% 5% 5%;
+    margin: 0;
+    position: relative;
+    left: 20%;
+    border-radius: 10px;
+    box-shadow: 12px 5px 5px var(--marrom);
+}
+
+.mais__sobre .mais__sobre__texto:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    transition: 1s ease;
+}
+
+.mais__sobre__texto h3 {
+    color: var(--amarelo-escuro);
+    font-weight: 300;
+    text-transform: none;
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
+
+#mais__sobre__titulo2 {
+    margin-bottom: 5px;
+    margin-top: -10px;
+}
+
+.mais__sobre__texto p {
+    color: var(--bege-fundo);
+    font-size: 20px;
+    font-family: 'Comic Neue', cursive;
+    word-spacing: 1px;
+    padding-left: 50px;
+}
+
+/* FUNCIONÁRIOS */
+.funcionarios {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.funcionarios h4 {
+    font-size: 2.2em;
+    font-family: 'Kalam', cursive;
+    font-weight: 400;
+    word-spacing: -5px;
+    color: var(--marrom-vinho);
+    text-shadow: 2px 2px 4px var(--marrom);
+    margin-top: 25px;
+    text-align: left;
+    margin-left: 35px;
+}
+
+.funcionarios__container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.funcionaria {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.funcionaria img {
+    width: 85%;
+    height: 65%;
+    border: 4px solid var(--marrom);
+    border-radius: 50%;
+}
+
+.funcionaria__nome {
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 1.8em;
+    color: var(--marrom);
+    font-weight: 700;
+}
+
+.funcionaria__sobre {
+    font-family: 'Comic Neue', cursive;
+    font-size: 1.5em;
+    color: var(--verde-medio);
+    font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+    main {
+        width: 95%;
+        margin-left: 1.3%;
+    }
+
+    .about-us p {
+        font-size: 20px;
+    }
+    /* ESPAÇAMENTO SEÇÃO 2*/
+    .historia {
+        margin-top: 10%;
+    }
+
+    .historia__texto h2 {
+        font-size: 24px;
+    }
+
+    .historia__texto p {
+        font-size: 8px;
+    }
+    
+    /* TAMANHO DA ÁREA NOSSA HISTÓRIA */
+    .historia__texto {
+        width: 80%;
+    }
+
+    .historia__img {
+        width: 75%;
+        margin-left: 15%;
+    }
+
+    /* SEÇÃO MAIS SOBRE */
+    .mais__sobre {
+        height: 750px;
+    }
+
+    .mais__sobre__texto {
+        width: 85%;
+        left: 13px;
+        padding-top: 8%;
+        padding-bottom: 10%;
+    }
+
+    .mais__sobre__texto h3 {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .mais__sobre__img {
+        width: 56%;
+        height: 20%;
+    }
+
+    .mais__sobre__texto p {
+        font-size: 14px;
+    }
+
+    #img_1 {
+        align-self: flex-end;
+        margin-left: 9%;
+        margin-bottom: 17%;
+    }
+
+    #img_2 {
+        margin: 0;
+        align-self: flex-start;
+        left: 39%;
+        position: absolute;
+        z-index: 1;
+        margin-top: 16%;
+    }
+    /* FUNCIONARIOS */
+    .funcionarios {
+        height: 430px;        
+    }
+
+    .funcionarios h4 {
+        font-size: 1.9em;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .funcionaria img{
+        width: 75%;
+        height: 40%;
+        border: 3px solid var(--marrom);
+    }
+
+    .funcionaria__nome {
+        font-size: 1.4em;
+    }
+
+    .funcionaria__sobre {
+        font-size: 1em;
+    }
+}

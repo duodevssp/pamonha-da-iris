@@ -1,0 +1,265 @@
+.container {
+    text-transform: capitalize;
+}
+
+.box{
+    border-radius: 30px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 032);
+    backdrop-filter: blur(3.1px);
+    -webkit-backdrop-filter: blur(3.1px);
+    width:72.8%;
+    margin-left: 175px;
+    margin-top: 1%;
+    padding:1.5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--verde-medio);
+    font-size: 14px;
+    font-family: 'Comic Neue', cursive;
+    background-image: linear-gradient(to left top, #fcb60d, #fdb523, #feb531, #ffb43d, #ffb447, #ffb447, #ffb447, #ffb447, #ffb43d, #feb531, #fdb523, #fcb60d);
+    }
+
+    .pedido__clientes {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width:70vw;
+        gap: 75px;
+        margin-top: 10px;
+    }
+   
+    fieldset {
+    border: 4px solid var(--bege-fundo);
+    border-radius: 30px;
+    width:30%;
+    }
+    fieldset legend {
+        font-family: 'Kalam', cursive;
+        text-shadow: 2px 2px 2px var(--marrom);
+        font-size: 42px;
+        text-transform: capitalize;
+        word-spacing: -1px;
+        color: var(--marrom-vinho);
+        display:flex;
+      }
+
+      .rotate {
+        transform: rotate(90deg); 
+      }
+
+    .inputBox {
+    position: relative;
+    }
+    
+    .nome, .telefone, .data_entrega, .endereco, .numero, .bairro {
+    background: none;
+    border: none;
+    border-bottom: 2px solid var(--verde-escuro);
+    outline: none;
+    font-size: 16px;
+    width: 100%;
+    letter-spacing: 2px;
+    color: var(--marrom-vinho);
+    margin-bottom: 20px;
+    font-family: 'Archivo Black', sans-serif; /*LETRA QUE ESCREVE*/
+    font-weight: lighter;
+    }
+
+    /*Remover seta numero*/
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/*Remover data*/
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+  color: transparent;
+}
+input[type=date]:focus::-webkit-datetime-edit {
+  color: var(--verde-escuro) !important;
+}
+
+    .labelInput { /*letra que aparece nome do campo*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    transition: .5;
+    font-size:18px;
+    font-weight: 700;
+    }
+
+    .nome:focus ~ .labelInput,
+    .nome:valid ~ .labelInput,
+    .telefone:focus ~ .labelInput,
+    .telefone:valid ~ .labelInput,
+    .data_entrega:focus ~ .labelInput,
+    .data_entrega:valid ~ .labelInput,
+    .endereco:focus ~ .labelInput,
+    .endereco:valid ~ .labelInput,
+    .numero:focus ~ .labelInput,
+    .numero:valid ~ .labelInput,
+    .bairro:focus ~ .labelInput,
+    .bairro:valid ~ .labelInput {
+      top: -20px;
+      font-size: 16px;
+      color: var(--vermelho);
+      font-weight: 700;
+      font-family: 'Comic Neue', cursive; /*LETRA QUE SOBE*/
+    }
+
+/*Botão do ZAP*/
+    #submit{
+    background-color: #25D366;
+    width: 25%;
+    border: 3px solid white;
+    box-shadow: 4px 4px 8px  black;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 26px;
+    cursor: pointer;
+    border-radius: 30px;
+    font-family: 'Kalam', cursive;
+    }
+    #submit:hover{
+      background-image: linear-gradient(to right, #25d366, #00c672, #00b97b, #00ac80, #009e81, #01947d, #078a78, #0f8073, #0d776b, #0b6f63, #09665c, #075e54);
+    }
+
+/* PEDIDOS ITENS */
+.pedido__itens__container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 5%;
+  gap: 4%; /*Espaçamento entre as colunas*/
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  text-align: left;
+}
+
+.titulos__itens {
+  margin-bottom: 15px;
+  margin-right: 15px;
+  font-family: 'Kalam', cursive;
+  font-size: 20px;
+  border: 2px solid var(--amarelo-escuro);
+  border-radius: 30px;
+  width:65% auto;
+  background-color: var(--marrom);
+  color: var(--bege-fundo);
+}
+
+.container label {
+  font-size: 16.5px;
+}
+.mini__item__pamonha {
+  font-size: 16px;
+}
+
+.containerDiferente {
+  gap: 15px;
+  margin-top: 15px;  
+}
+
+/* Organização dos itens "+ 0 -" */
+.container__itens {
+  display: flex;
+  gap:5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container__itens button {
+  background: none; /*Remoção da estilização padrão do button */
+  border: none; /*Remoção da estilização padrão do button */
+  cursor: pointer;  /*Muda o cursor para click */
+  font-size: 2em; /*Ajuste do tamanho do botão com base na fonte padrão definida */
+  color: var(--marrom-vinho); /*Cor do símbolo*/
+}
+
+.itens__button- {
+  margin-bottom: 6px;
+}
+
+.titulos__itens__minidoces {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  gap: 15px;
+}
+
+@media screen and (max-width: 768px) {
+
+  /* AJUSTES GERAIS DA PÁGINA */
+  .box {
+    width: 95%;
+    margin: 0;
+    padding: 0;
+    margin-left: 3%;
+    justify-content: center;
+  }
+
+  fieldset {
+    width: 100%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  /* TAMANHO DA FRASE - FAÇA SEU PEDIDO */
+  fieldset legend {
+    font-size: 27px;
+    width: 80%;
+  }
+
+  legend {
+    width: 100%;
+  }
+
+  /* ESPAÇAMENTO NOME - PREÇO */
+  .container {
+    width: 95%;
+  }
+
+  /* MUDA ORIENTAÇÃO FORM DADOS CLIENTE */
+  .pedido__clientes {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    gap: 0px;
+  }
+
+  /* MUDA ORIENTACAO LISTA DE ITENS */
+  .pedido__itens__container {
+    flex-direction: column;
+  }
+
+  /* CONTAINERS NÃO TEM UM TAMANHO PADRÃO NO DESKTOP */
+  .pamonhas_pedido, .bolos_tortas_pedido, .demais_derivados_milho, .containerDiferente {
+    width: 100%;
+  }
+
+  /* ESTILIZAÇÃO BOTÃO WHATS */
+  #submit {
+    width: 60%;
+  }
+
+  .titulos__itens__minidoces {
+    justify-content: flex-start;
+    gap: 15%;
+  }
+
+
+}

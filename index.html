@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pamonha da Iris</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/index.css">
+</head>
+<body>
+
+    <header>
+        <nav class="container__header">
+            <div class="container__header__logo">
+                <img class="logo_img" src="img/1.png">
+            </div>
+
+            <ul class="menu">
+                <li class="menu__item"><a href="index.html">Home</a></li>
+                <li class="menu__item"><a href="cardapio.html">Cardápio</a></li>
+                <li class="menu__item"><a href="pedidos.html">Pedidos</a></li>
+                <li class="menu__item"><a href="about.html">Sobre nós</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="carrosel-container">
+            <div class="carrossel-wrapper">
+                <div class="carrossel-slide" id="slidemenor1">
+                    <div class="bannertexto">
+                        <h1>Pamonha Tradicional <br><span>artesanal</span></h1>
+                        <p>Sabor de infância, carinho de mãe e o melhor do milho verde em cada mordida</p>
+                        <div class="links">
+                            <a href="pedidos.html" class="links__acesso" id="links_acesso1">Peça agora</a>
+                            <a href="cardapio.html" class="links__acesso" id="links_acesso2">+ Produtos</a>        
+                        </div>
+                    </div>
+                    <div class="bannerimagem">
+                        <img src="img/img_1.png" alt="">
+                    </div>    
+                </div>
+                <div class="carrossel-slide">
+                    <div class="bannertexto">
+                        <h1>Almoço nordestino <br><span>com tempero caseiro</span> </h1>
+                        <p>Um pedacinho do sabor nordestino agora também no horário do almoço</p>
+                        <p>Fiquem atentos ao cardápio do dia nas nossas redes</p>
+                        <div class="links">
+                            <a href="https://www.instagram.com/stories/pamonhadairis" class="links__acesso" id="links_acesso2">Instagram</a>        
+                        </div>
+                    </div>
+                    <div class="bannerimagem">
+                        <img src="img/baiao.png" alt="">
+                    </div>   
+                </div>
+                <div class="carrossel-slide" id="slidemenor2">
+                    <div class="bannertexto">
+                        <h1>Gelinho Cremoso <br><span>gourmet</span> </h1>
+                        <p>Para os dias de muito calor, vai um gelinho ai?!</p>
+                        <p>Feito de forma artesanal e com a polpa da fruta e os melhores ingredientes</p>
+                        <div class="links">
+                            <a href="pedidos.html" class="links__acesso" id="links_acesso1">Peça agora</a>
+                            <a href="cardapio.html#gelinho1" class="links__acesso" id="links_acesso2">+ Sabores</a>        
+                        </div>
+                    </div>
+                    <div class="bannerimagem">
+                        <img src="img/gelinho.png" alt="">
+                    </div>   
+                </div>
+            </div>
+        
+            <div class="carrosel-bullets">
+                <span class="bullet" onclick="changeSlide(0)"></span>
+                <span class="bullet" onclick="changeSlide(1)"></span>
+                <span class="bullet" onclick="changeSlide(2)"></span>
+            </div>
+        </section>
+    </main>
+
+    <footer class="contato">
+
+        <div class="container_contato">
+            <a href ="https://wa.me/+5511963220463" target="_blank"><img class="contato_img" src="img/whatsapp_logo.png"></a>
+            <a href="https://www.instagram.com/pamonhadairis/" target="_blank"><img class="contato_img" src="img/instagram_logo.png"></a>
+        </div>
+
+        <div class="contato__redes">
+            <p class="contato__redes__p1">Venha visitar o melhor do milho da região, feito artesanalmente com muito amor de mãe <span id="contato_coracao">❤</span></p>
+            <p class="contato__redes__p2">Funcionamos de Terça à Sexta - 11H às 18H</p>
+            <p class="contato__redes__p2">Sábado e Feríados - 11H às 17H</p>
+            <p class="contato__redes__p2">Rua Dona Ana Neri, 140 - MOOCA</p>
+        </div>
+
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

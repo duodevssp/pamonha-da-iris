@@ -1,0 +1,165 @@
+
+body {
+    background-color:var(--verde-escuro);
+    font-family: 'Sulphur Point', serif;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  
+  section {
+    max-width: 400px;
+    margin: 0 auto;
+
+  }
+  
+  section h2 {
+    background-color:var(--verde-escuro);
+    border: 1px solid var(--verde-medio);
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+    margin-top: 15px;
+    font-size: 22px;
+    border-radius: 5px;
+    font-family: 'Comic Neue', cursive;
+    font-style: italic; 
+    font-weight: 700;
+    text-transform: capitalize;
+    color: var(--amarelo-escuro);
+    text-shadow: -0.5px 0 black, 0 0.5px black,
+    0.5px 0 black, 0 -0.5px black;
+  }
+  
+  /* ANTIGO ul li */
+  /* MODIFICADO PARA NÃO AFETAR O MENU DO CABEÇALHO */
+  .itens li {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .details h3 {
+    margin-bottom: 8px;
+    font-size: 18px;
+    line-height: 10px;
+    text-transform: capitalize;
+    word-spacing: -4px;
+    color: var(--verde-medio);
+    
+  }
+  .details1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 8px;
+    font-size: 13.5px;
+    line-height: 6px;
+    text-transform: capitalize;
+    word-spacing: -1px;
+    font-family: 'Comic Neue', cursive;
+    color: var(--marrom-vinho);
+  }
+
+  .price {
+    line-height: 10px;
+    font-weight: 700;
+    font-size: 19px;
+    margin-left: 10px;
+    color: var(--marrom-vinho);     
+    font-family: 'Comic Neue', cursive;
+    
+  }
+  
+  .details p {
+    color: var(--verde-escuro);
+    font-size: 15.5px;
+    line-height: 21px;
+    margin-left: 10px;
+    text-transform: capitalize;
+  }
+
+/* SEPARAÇÃO DO CARDÁPIO EM BLOCOS */
+  .main_itens {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bege-fundo);
+    border: 5px solid var(--bege-fundo);
+    border-radius: 30px;
+     /* Colunas principais */
+}
+
+.linha_1,
+.linha_2 {
+    display: flex;
+    justify-content: space-between; /* Distribui os elementos ao longo da linha */
+}
+
+.produtos {
+  width: 30%; /* Ajuste conforme necessário */
+}
+
+#mini1, #mini2, #mini3, #mini4, #gelinho1, #gelinho2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#mini1, #mini2, #mini3, #mini4 {
+  margin-bottom: 12px;
+}
+
+#repetir_cardapio1, #repetir_cardapio2, #repetir_cardapio3 {
+  margin-bottom: 35px;
+}
+#produtos__caseirinhos li div {
+  margin-bottom: 10.5px;
+}
+#produtos__pamonhas li div {
+  margin-bottom: 5px;
+}
+
+/*RESPONSIVIDADE*/
+@media only screen and (max-width:768px) {
+  .produtos {
+    width: 90%;
+}
+  .main_itens {
+    width: 90%;
+    margin-left: 3.5%;
+  }
+  .details p {
+    font-size: 82%;
+    margin-left: 9px;
+  }
+  .details h3 {
+    font-size: 110%;
+  }
+  .details1 {
+    font-size: 13px;
+  }
+  .price {
+    font-size: 110%;
+  }
+  section h2 {
+    font-size: 135%;
+  }
+  .linha_1, .linha_2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .itens li {
+    margin-bottom: 12px;
+  }
+  section {
+    max-width: none;
+  }
+  ul {
+    list-style: none;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-left: 15px;
+}
+}
