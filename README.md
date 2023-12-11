@@ -5,9 +5,7 @@ Bem-vindo ao repositório do projeto Pamonha da Iris! Este é um site incrível 
 ## Tabela de Conteúdos
 
 - [Visão Geral](#visão-geral)
-- [Como Usar](#como-usar)
 - [Capturas de Tela](#capturas-de-tela)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Visão Geral
