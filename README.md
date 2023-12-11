@@ -31,8 +31,6 @@ O projeto Pamonha da Iris √© um site dedicado a compartilhar e promover as incr√
 - **Pamonha 7**
   ![Pamonha 7](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/c4ba7091-b23f-4687-a90c-0b6e6176d8d7)
 
-### Layout Mobile
-
 - **Tela Inicial do Carrossel de Slides**
   ![Carrossel](https://github.com/duodevssp/pamonha-da-iris/assets/153000935/1cb7845c-c848-45bb-9b44-084e4b6ac0bf)
 - **Pamonha 2 (Mobile)**
